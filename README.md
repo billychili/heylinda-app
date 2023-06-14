@@ -42,6 +42,10 @@ To run the project, run the following commands:
 - `yarn android`
 - `yarn ios`
 
+To run the project in the browser, run the following command:
+
+- `expo start --web`
+
 ## Contribute
 
 You can contribute to Hey Linda by beta testing, recording meditations, or submitting code.

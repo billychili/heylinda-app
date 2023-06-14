@@ -41,6 +41,7 @@ To run the project, run the following commands:
 
 - `yarn android`
 - `yarn ios`
+- `yarn web`
 
 ## Contribute
 
